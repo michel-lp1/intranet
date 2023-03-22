@@ -1,0 +1,80 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+body
+{
+    background-image: linear-gradient(to right, #cbe6ff, #010707);
+}
+.calendario
+{
+    width: 200px;
+    height: 35px;
+    border-radius: 5px;
+    padding: 5px;
+}
+.btn
+{
+    float: right;
+    margin-right: 100px;
+    width: 150px;
+}
+.legenda-container
+{
+    text-align: center;
+    border: 1px solid #010707;
+    box-shadow: 3px 3px 5px #5c5959;
+    border-radius: 5px;
+}
+.form-group
+{
+    padding: 5px;
+    margin-left: 20px;
+}
+.container
+{
+    box-shadow: 3px 3px 5px #5c5959;
+}
+.resp
+{
+    width: 35px;
+    text-align: center;
+    text-transform: uppercase;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+.respostas
+{
+    color: #fa0000;
+    font-style: italic;
+}
+.rotulos
+{
+    font-weight: bolder;
+    font-size: 15px;
+}
+.rotulos-data
+{
+    margin-right: 35px;
+}
+.rotulos-cpf
+{
+    letter-spacing: 3;
+    font-weight: bolder;
+    margin-right: 5px;
+    width: 50px;
+}
+.dados-cpf
+{
+    margin-right: 50px;
+    width: 300px;
+    height: 35px;
+    border-radius: 5px;
+    padding: 5px;
+}
+.figura-teste{
+    float: right;
+    margin-right: 25px;
+    margin-top: 15px;
+}

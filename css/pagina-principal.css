@@ -1,0 +1,28 @@
+body
+{
+    /*background-image: linear-gradient(to right, #cbe6ff, #010707);*/
+    background-image: url('../img/fundos-telas/fundo-tres.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.menu 
+{ 
+   background-color: #1a1818;
+   margin-top: 10px;
+}
+a:active{
+    color: #c1c1c1;
+}
+a:visited{
+    color: antiquewhite;
+}
+li{
+    font-size: 18px;
+    letter-spacing: 2px;
+    font-style: italic;
+    padding: 15px;
+}
+.video
+{
+    margin: 2% 33%;
+}

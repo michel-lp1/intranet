@@ -1,0 +1,108 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+body
+{
+    background-image: linear-gradient(to right, #cbe6ff, #c1c1c1);
+}
+.quadro{
+    width: 1100px;
+    margin: 20px auto;
+    padding: 15px;
+    background-color: #cbe6ff;
+    border-radius: 10px;
+    box-shadow: 3pc 3pc 5pc black;
+}
+.link-av{
+    padding: 8px;
+    margin: 20px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 2px;
+    border-radius: 10px;
+    transition-delay: 0.5ms;
+}
+.link-av:visited{
+    color: #000;
+
+}
+.link-av:hover{
+    background-color: #c1c1c1;
+    color: #010707;
+}
+.form-control{
+    width: 1000px;
+    background-image: url('../img/logos/tela-fundo-cadastros.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.rotulo-form{
+    width: 280px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    font-weight: bolder;
+}
+.dados, .dados-cpf{
+    width: 220px;
+    height: 35px;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 5px #010707;
+}
+.btn{
+    float: right;
+    margin: 50px;
+    position: relative;
+    margin-right: 50px;
+    width: 150px;
+    box-shadow: 3px 3px 5px #010707;
+}
+.figura-form{
+    float: right;
+    margin-top: -50px;
+}
+.dados-area{
+    margin-left: 20px;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px #010707;
+    
+}
+.dados-notas{
+    width: 40px;
+    height: 20px;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    text-align: center;
+    box-shadow: 3px 3px 5px #010707;
+}
+.dados-tst
+{
+    width: 700px;
+    height: 30px;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    text-align: center;
+    box-shadow: 3px 3px 5px #010707;
+}
+.table-bg
+{
+    background: rgba(0,0,0,0.3);
+    border-radius: 10px 10px 0 0 ;
+    padding: 10px;
+}
+.box-search
+{
+    display: flex;
+    justify-content: center;
+    gap: .2%;
+}

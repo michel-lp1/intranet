@@ -15,7 +15,7 @@ input
     outline: none;
     font-size: 18px;
     border-radius: 10px;
-    width: 42%;
+    width: 38%;
     border: 0.5px solid rgb(39, 45, 131);
 }
 button
@@ -23,7 +23,7 @@ button
     background-color: rgb(39, 45, 131);
     padding: 20px;
     border: none;
-    width: 45%;
+    width: 40;
     border-radius: 10px;
     color: #fff;
     font-size: 15px;
@@ -37,7 +37,7 @@ button:hover
 {
     background-color: rgb(39, 45, 131);
     border: none;
-    width: 45%;
+    width: 40%;
     border-radius: 10px;
     color: #fff;
     font-size: 15px;
